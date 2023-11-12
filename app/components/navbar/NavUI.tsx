@@ -49,7 +49,7 @@ export default function NavUI({ cartItemsCount }: Props) {
             href="/"
             className="mr-4 cursor-pointer py-1.5 lg:ml-2 font-semibold"
           >
-            Next Ecom
+            Next Commerce
           </Link>
 
           <div className="hidden lg:flex gap-2 items-center">

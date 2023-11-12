@@ -9,7 +9,7 @@ interface Auth {
 const useAuth = () : Auth => {
   return  {
     loading: false,
-    loggedIn: true,
+    loggedIn: false,
     isAdmin: false,
   }
 }
